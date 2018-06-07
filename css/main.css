@@ -1,0 +1,16 @@
+body{
+  overflow-x: hidden;
+}
+footer{
+  background-color: #212529;
+  color: #343a40;
+  text-align: center;
+  margin-top: 10px;
+  padding: 20px;
+}
+nav li{
+  padding: 20px;
+}
+h1{
+  margin: 20px;
+}
